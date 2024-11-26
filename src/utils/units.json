@@ -1,0 +1,175 @@
+[
+  {
+    "unit_baru": "Kantor Telkom Regional III",
+    "sub_unit_baru": [
+      "Business Planning, Performance, Logistic & Procurement",
+      "Regional SME Service",
+      "Reg Large Enterprise & Govt Service",
+      "Regional Solution & Operation I",
+      "Regional Solution & Operation II",
+      "Regional Wholesale Service",
+      "Shared Service & General Support",
+      "Engineering & Deployment"
+    ]
+  },
+  {
+    "unit_baru": "Witel Suramadu",
+    "sub_unit_baru": [
+      "Witel Suramadu",
+      "Telkom Daerah Bangkalan",
+      "Telkom Daerah Pamekasan",
+      "Telkom Daerah Manyar",
+      "Telkom Daerah Ketintang",
+      "Telkom Daerah Gresik",
+      "Telkom Daerah Lamongan",
+      "Telkom Daerah Tandes",
+      "Telkom Daerah Kenjeran",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Jatim Timur",
+    "sub_unit_baru": [
+      "Witel Jatim Timur",
+      "Telkom Daerah Banyuwangi",
+      "Telkom Daerah Bondowoso",
+      "Telkom Daerah Jember",
+      "Telkom Daerah Situbondo",
+      "Telkom Daerah Lumajang",
+      "Telkom Daerah Pasuruan",
+      "Telkom Daerah Probolinggo",
+      "Telkom Daerah Jombang",
+      "Telkom Daerah Mojokerto",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Jatim Barat",
+    "sub_unit_baru": [
+      "Witel Jatim Barat",
+      "Telkom Daerah Blitar",
+      "Telkom Daerah Kediri",
+      "Telkom Daerah Nganjuk",
+      "Telkom Daerah Trenggalek",
+      "Telkom Daerah Tulungagung",
+      "Telkom Daerah Batu",
+      "Telkom Daerah Bojonegoro",
+      "Telkom Daerah Madiun",
+      "Telkom Daerah Ngawi",
+      "Telkom Daerah Ponorogo",
+      "Telkom Daerah Tuban",
+      "Telkom Daerah Kepanjen",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Bali",
+    "sub_unit_baru": [
+      "Witel Bali",
+      "Telkom Daerah Sanur",
+      "Telkom Daerah Ubung",
+      "Telkom Daerah Jimbaran",
+      "Telkom Daerah Gianyar",
+      "Telkom Daerah Jembrana",
+      "Telkom Daerah Klungkung",
+      "Telkom Daerah Singaraja",
+      "Telkom Daerah Tabanan",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Nusa Tenggara",
+    "sub_unit_baru": [
+      "Witel Nusa Tenggara",
+      "Telkom Daerah Bima",
+      "Telkom Daerah Lombok Baru Tengah",
+      "Telkom Daerah Lombok Timur Utara",
+      "Telkom Daerah Sumbawa",
+      "Telkom Daerah Atambua",
+      "Telkom Daerah Ende",
+      "Telkom Daerah Kupang",
+      "Telkom Daerah Labuan Bajo",
+      "Telkom Daerah Maumere",
+      "Telkom Daerah Waikabubak",
+      "Telkom Daerah Waingapu",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Semarang Jateng Utara",
+    "sub_unit_baru": [
+      "Witel Semarang Jateng Utara",
+      "Telkom Daerah Pekalongan",
+      "Telkom Daerah Batang",
+      "Telkom Daerah Brebes",
+      "Telkom Daerah Kendal",
+      "Telkom Daerah Pemalang",
+      "Telkom Daerah Salatiga",
+      "Telkom Daerah Ungaran",
+      "Telkom Daerah Slawi",
+      "Telkom Daerah Tegal",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Yogya Jateng Selatan",
+    "sub_unit_baru": [
+      "Witel Yogya Jateng Selatan",
+      "Telkom Daerah Magelang",
+      "Telkom Daerah Purwokerto",
+      "Telkom Daerah Banjarnegara",
+      "Telkom Daerah Cilacap",
+      "Telkom Daerah Kebumen",
+      "Telkom Daerah Muntilan",
+      "Telkom Daerah Purbalingga",
+      "Telkom Daerah Purworejo",
+      "Telkom Daerah Temanggung",
+      "Telkom Daerah Gunung Kidul",
+      "Telkom Daerah Wonosobo",
+      "Telkom Daerah Bantul",
+      "Telkom Daerah Sleman",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  },
+  {
+    "unit_baru": "Witel Solo Jateng Timur",
+    "sub_unit_baru": [
+      "Witel Solo Jateng Timur",
+      "Telkom Daerah Blora",
+      "Telkom Daerah Jepara",
+      "Telkom Daerah Kudus",
+      "Telkom Daerah Pati",
+      "Telkom Daerah Boyolali",
+      "Telkom Daerah Klaten",
+      "Telkom Daerah Purwodadi",
+      "Telkom Daerah Rembang",
+      "Telkom Daerah Sragen",
+      "Telkom Daerah Wonogiri",
+      "Performance, Risk & Qos",
+      "Shared Service & General Support",
+      "Witel Business Service",
+      "Government Service"
+    ]
+  }
+]
